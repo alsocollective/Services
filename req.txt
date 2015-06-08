@@ -1,0 +1,5 @@
+Django==1.6.0
+gdata==2.0.18
+gspread==0.2.3
+wsgiref==0.1.2
+
